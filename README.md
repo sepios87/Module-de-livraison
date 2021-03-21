@@ -22,3 +22,11 @@ Le sujet est disponible ici : [Cooperative2.0](https://docs.google.com/document/
  - JS (JQuery)
 
  ## Captures d'écran
+
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/1.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/2.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/3.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/4.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/5.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/6.PNG"/>
+<img src="https://github.com/sepios87/module-de-livraison-avec-API-google-map/blob/main/readme_Image/7.PNG"/>
