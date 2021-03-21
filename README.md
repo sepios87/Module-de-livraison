@@ -11,10 +11,10 @@ Le sujet est disponible ici : [Cooperative2.0](https://docs.google.com/document/
  - M.MINGO
 
 ## Membres
-- CONSTANS Maxime 
-- DELEEST Manon 
-- TORIBIO Florian 
-- MARTY Thomas 
+- <a href="https://github.com/MaximeConstans">CONSTANS Maxime</a> 
+- <a href="https://github.com/manon-deleest">DELEEST Manon</a> 
+- <a href="https://github.com/sepios87">TORIBIO Florian</a> 
+- <a href="https://github.com/Coto-Hub">MARTY Thomas</a> 
 
 ## Langages
  - HTML
