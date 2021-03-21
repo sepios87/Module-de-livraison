@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Localisation</title>
+
+  <script src="js/librairies/jquery-3.6.0.min.js"></script>
+  <script src="js/librairies/jquery-ui.min.js"></script>
+
+  <script src="js/datepicker-fr.js"></script>
+  <script src="js/voiture.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/itineraire.js"></script>
+
+  <script type="module" src="js/liste.js"></script>
+  <script type="module" src="js/livrer.js"></script>
+
+  <link rel="stylesheet" href="css/style.min.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+</head>
+
+<body>
+  <div id="map"></div>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=YOUr_KEY&callback=initMap&libraries=&v=weekly"
+    async></script>
+  <div id="info">
+
+    <div id="filter">
+      <p><input type="text" id="datepicker"></p>
+      <div class="group">
+        <input id="search" type="text">
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label>Chercher un livreur</label>
+      </div>
+    </div>
+    <div id="liste"></div>
+  </div>
+</body>
+
+</html>
